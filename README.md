@@ -1,7 +1,15 @@
+<!--
+ * @Author: your name
+ * @Date: 2019-12-21 21:28:26
+ * @LastEditTime : 2019-12-22 15:14:32
+ * @LastEditors  : Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \undefinedd:\Github\-IPV6-\README.md
+ -->
 # ipv6自动解析
 ## 请手动在注释处替换参数
 ### ￥￥中为注释占位符
-
+### [releases](https://github.com/LeagueJhin/IPV6/releases)地址
 ## 已知问题
 #### 1. 定时任务需要 cd至脚本根目录后执行
 #### 2. 无法自动分辨API获取到的ipv6地址还是ipv4地址
